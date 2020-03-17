@@ -810,7 +810,7 @@
 					<p><small>※参考リンクはオリジナルサイトでご覧ください</small></p>
 					<p><small><a href="http://localhost/article/event/automobile-event/tokyo-auto-salon-2020-summary/">オリジナルサイトで読む</a></small></p>
 			]]></description>
-			<enclosure url="https://cdn.car-moby.jp/article/wp-content/uploads/2020/02/07110101/%E5%B0%8F%E3%81%95%E3%81%84%E7%94%BB%E5%83%8F%E4%BF%9D%E5%AD%98_-12345x812.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=accesskey%2F20200317%2Fap-northeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200317T092509Z&X-Amz-SignedHeaders=host&X-Amz-Expires=900&X-Amz-Signature=a9d2bec66173d66b8aad9bde87ae81edde2c75c677fb8a0af79a71bf54daa4f7" type="image/jpeg" length="0" />
+			<enclosure url="https://cdn.car-moby.jp/article/wp-content/uploads/2020/02/07110101/%E5%B0%8F%E3%81%95%E3%81%84%E7%94%BB%E5%83%8F%E4%BF%9D%E5%AD%98_-12345x812.png" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
 				<oa:authorUrl>http://localhost/article</oa:authorUrl>
