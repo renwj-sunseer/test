@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:oa="http://news.line.me/rss/1.0/oa">
 	<channel>
 		<title><![CDATA[MOBY（モビー）車はおもしろい！を届ける自動車情報メディア]]></title>
-		<link>http://localhost/article</link>
+		<link>http://docker.car-moby.com/article</link>
 		<description><![CDATA[MOBYは毎日クルマを&quot;使う&quot;人、持っていない人に車を好きになってもらうため、新型車、最新の技術やサービスからドライブ情報まで、車の楽しさや魅力を発信します。]]></description>
 		<language>ja</language>
 		<lastBuildDate>Tue, 17 Mar 2020 18:00:16 +0900</lastBuildDate>
@@ -10,7 +10,7 @@
 		<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=1040</guid>
 			<title><![CDATA[【RUF CTR3/CTR3 クラブスポーツ】最高速370km/hのミッドシップスポーツカー]]></title>
-			<link>http://localhost/article/automobile/ruf/ctr3/ctr3-and-ctr3-clubsport-2019/</link>
+			<link>http://docker.car-moby.com/article/automobile/ruf/ctr3/ctr3-and-ctr3-clubsport-2019/</link>
 			<pubDate>Wed, 12 Feb 2020 10:00:24 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -49,17 +49,17 @@
 					
 					<p><small>※スマートニュース、LINEニュースなどのアプリでは、リンクやYouTubeなどの表示がされませんので、この画面下部にあるオリジナルサイトへのリンクからご覧ください。</small></p>
 					<p><small>※参考リンクはオリジナルサイトでご覧ください</small></p>
-					<p><small><a href="http://localhost/article/automobile/ruf/ctr3/ctr3-and-ctr3-clubsport-2019/">オリジナルサイトで読む</a></small></p>
+					<p><small><a href="http://docker.car-moby.com/article/automobile/ruf/ctr3/ctr3-and-ctr3-clubsport-2019/">オリジナルサイトで読む</a></small></p>
 			]]></description>
 			<enclosure url="https://cdn.car-moby.jp/article/wp-content/uploads/2020/02/07064156/%E7%94%BB%E5%83%8F%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%90%8D-goo-net%E9%95%B7%E3%81%84%E5%90%8D%E5%89%8D_%E3%83%86%E3%82%B9%E3%83%88-%E3%82%B3%E3%83%94%E3%83%BC.png" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://docker.car-moby.com/article</oa:authorUrl>
 			</oa:imgAuthor>
 									
-			<oa:reflink><oa:refTitle>【RUF ターボ・フローリオ】911タルガの伝統をリスペクト！ルーフ渾身のオープントップ爽快ターボ</oa:refTitle><oa:refUrl>http://localhost/article/automobile/ruf/turbo-florio/2019-2/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>【RUF RtR】ルーフが手がける最強ターボモデル！800馬力超ピュアスポーツカー</oa:refTitle><oa:refUrl>http://localhost/article/automobile/ruf/rtr/2019-3/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>【RUF RGT4.2】ポルシェのGTモデルを凌駕！ルーフが提案する究極のNAロードカー</oa:refTitle><oa:refUrl>http://localhost/article/automobile/ruf/rgt4-2/2019-4/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>【RUF ターボ・フローリオ】911タルガの伝統をリスペクト！ルーフ渾身のオープントップ爽快ターボ</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/ruf/turbo-florio/2019-2/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>【RUF RtR】ルーフが手がける最強ターボモデル！800馬力超ピュアスポーツカー</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/ruf/rtr/2019-3/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>【RUF RGT4.2】ポルシェのGTモデルを凌駕！ルーフが提案する究極のNAロードカー</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/ruf/rgt4-2/2019-4/</oa:refUrl></oa:reflink>
 			
 						<oa:lastPubDate>
 				Sat, 07 Mar 2020 06:42:11 +0900
@@ -68,9 +68,9 @@
 		</item>
 							
 		<item>
-			<guid isPermaLink="false">http://localhost/article/?p=7078</guid>
+			<guid isPermaLink="false">http://docker.car-moby.com/article/?p=7078</guid>
 			<title><![CDATA[moby491withloadlazy]]></title>
-			<link>http://localhost/article/other/moby491withloadlazy/</link>
+			<link>http://docker.car-moby.com/article/other/moby491withloadlazy/</link>
 			<pubDate>Thu, 06 Feb 2020 18:51:46 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -178,12 +178,12 @@
 					<img loading="lazy" src="https://placekitten.com/499/499" width="499" height="499" alt=""></p>
 					<p><small>※スマートニュース、LINEニュースなどのアプリでは、リンクやYouTubeなどの表示がされませんので、この画面下部にあるオリジナルサイトへのリンクからご覧ください。</small></p>
 					<p><small>※参考リンクはオリジナルサイトでご覧ください</small></p>
-					<p><small><a href="http://localhost/article/other/moby491withloadlazy/">オリジナルサイトで読む</a></small></p>
+					<p><small><a href="http://docker.car-moby.com/article/other/moby491withloadlazy/">オリジナルサイトで読む</a></small></p>
 			]]></description>
 			<enclosure url="https://cdn.car-moby.jp/article/wp-content/uploads/2020/02/07110311/%E5%A4%A7%E3%81%8D%E3%81%84%E7%94%BB%E5%83%8F%E4%BF%9D%E5%AD%98_-12345x8121-1568x882.png" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://docker.car-moby.com/article</oa:authorUrl>
 			</oa:imgAuthor>
 									<oa:lastPubDate>
 				Sat, 07 Mar 2020 11:03:21 +0900
@@ -192,9 +192,9 @@
 		</item>
 							
 		<item>
-			<guid isPermaLink="false">http://localhost/article/?p=7076</guid>
+			<guid isPermaLink="false">http://docker.car-moby.com/article/?p=7076</guid>
 			<title><![CDATA[moby491test]]></title>
-			<link>http://localhost/article/other/moby491test/</link>
+			<link>http://docker.car-moby.com/article/other/moby491test/</link>
 			<pubDate>Thu, 06 Feb 2020 18:46:50 +0900</pubDate>
 			<description><![CDATA[
 										<p><img src="https://placekitten.com/400/400" width="400" height="400" alt=""><br />
@@ -300,12 +300,12 @@
 					
 					<p><small>※スマートニュース、LINEニュースなどのアプリでは、リンクやYouTubeなどの表示がされませんので、この画面下部にあるオリジナルサイトへのリンクからご覧ください。</small></p>
 					<p><small>※参考リンクはオリジナルサイトでご覧ください</small></p>
-					<p><small><a href="http://localhost/article/other/moby491test/">オリジナルサイトで読む</a></small></p>
+					<p><small><a href="http://docker.car-moby.com/article/other/moby491test/">オリジナルサイトで読む</a></small></p>
 			]]></description>
 			<enclosure url="https://cdn.car-moby.jp/article/wp-content/uploads/2020/02/07111301/lagetest1-1568x882.png" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://docker.car-moby.com/article</oa:authorUrl>
 			</oa:imgAuthor>
 									<oa:lastPubDate>
 				Sat, 07 Mar 2020 11:13:11 +0900
@@ -314,9 +314,9 @@
 		</item>
 							
 		<item>
-			<guid isPermaLink="false">http://localhost/article/?p=7074</guid>
+			<guid isPermaLink="false">http://docker.car-moby.com/article/?p=7074</guid>
 			<title><![CDATA[アウディ新型A1オールロードは最新のFFとシリーズ最強エンジンを搭載か！！]]></title>
-			<link>http://localhost/article/other/%e3%82%a2%e3%82%a6%e3%83%87%e3%82%a3%e6%96%b0%e5%9e%8ba1%e3%82%aa%e3%83%bc%e3%83%ab%e3%83%ad%e3%83%bc%e3%83%89%e3%81%af%e6%9c%80%e6%96%b0%e3%81%aeff%e3%81%a8%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba/</link>
+			<link>http://docker.car-moby.com/article/other/%e3%82%a2%e3%82%a6%e3%83%87%e3%82%a3%e6%96%b0%e5%9e%8ba1%e3%82%aa%e3%83%bc%e3%83%ab%e3%83%ad%e3%83%bc%e3%83%89%e3%81%af%e6%9c%80%e6%96%b0%e3%81%aeff%e3%81%a8%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba/</link>
 			<pubDate>Thu, 06 Feb 2020 16:58:25 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -344,17 +344,17 @@
 					
 					<p><small>※スマートニュース、LINEニュースなどのアプリでは、リンクやYouTubeなどの表示がされませんので、この画面下部にあるオリジナルサイトへのリンクからご覧ください。</small></p>
 					<p><small>※参考リンクはオリジナルサイトでご覧ください</small></p>
-					<p><small><a href="http://localhost/article/other/%e3%82%a2%e3%82%a6%e3%83%87%e3%82%a3%e6%96%b0%e5%9e%8ba1%e3%82%aa%e3%83%bc%e3%83%ab%e3%83%ad%e3%83%bc%e3%83%89%e3%81%af%e6%9c%80%e6%96%b0%e3%81%aeff%e3%81%a8%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba/">オリジナルサイトで読む</a></small></p>
+					<p><small><a href="http://docker.car-moby.com/article/other/%e3%82%a2%e3%82%a6%e3%83%87%e3%82%a3%e6%96%b0%e5%9e%8ba1%e3%82%aa%e3%83%bc%e3%83%ab%e3%83%ad%e3%83%bc%e3%83%89%e3%81%af%e6%9c%80%e6%96%b0%e3%81%aeff%e3%81%a8%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba/">オリジナルサイトで読む</a></small></p>
 			]]></description>
 			<enclosure url="" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://docker.car-moby.com/article</oa:authorUrl>
 			</oa:imgAuthor>
 									
-			<oa:reflink><oa:refTitle>新型 シトロエン C3エアクロスSUV国内発売開始！タフ＆ポップな優等生</oa:refTitle><oa:refUrl>http://localhost/article/automobile/citroen/c3-aircross/new-30/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>BMW新型8シリーズカブリオレ日本国内発売開始！1,838万円から</oa:refTitle><oa:refUrl>http://localhost/article/automobile/bmw/8-series/cabriolet/cabriolet-new/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>史上最強のMINI新型ジョンクーパーワークスGPをスクープ！2019年9月発表か</oa:refTitle><oa:refUrl>http://localhost/article/automobile/mini/mini-mini/jcw-gp-scoop/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>新型 シトロエン C3エアクロスSUV国内発売開始！タフ＆ポップな優等生</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/citroen/c3-aircross/new-30/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>BMW新型8シリーズカブリオレ日本国内発売開始！1,838万円から</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/bmw/8-series/cabriolet/cabriolet-new/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>史上最強のMINI新型ジョンクーパーワークスGPをスクープ！2019年9月発表か</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/mini/mini-mini/jcw-gp-scoop/</oa:refUrl></oa:reflink>
 			
 						<oa:lastPubDate>
 				Thu, 06 Feb 2020 17:16:32 +0900
@@ -365,7 +365,7 @@
 		<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=6841</guid>
 			<title><![CDATA[【いろは坂】全線一方通行の絶景路｜日本の峠＃8]]></title>
-			<link>http://localhost/article/drive/drive-spot-course/irohazaka/</link>
+			<link>http://docker.car-moby.com/article/drive/drive-spot-course/irohazaka/</link>
 			<pubDate>Thu, 16 Jan 2020 02:52:03 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -433,17 +433,17 @@
 					
 					<p><small>※スマートニュース、LINEニュースなどのアプリでは、リンクやYouTubeなどの表示がされませんので、この画面下部にあるオリジナルサイトへのリンクからご覧ください。</small></p>
 					<p><small>※参考リンクはオリジナルサイトでご覧ください</small></p>
-					<p><small><a href="http://localhost/article/drive/drive-spot-course/irohazaka/">オリジナルサイトで読む</a></small></p>
+					<p><small><a href="http://docker.car-moby.com/article/drive/drive-spot-course/irohazaka/">オリジナルサイトで読む</a></small></p>
 			]]></description>
 			<enclosure url="https://cdn.car-moby.jp/article/wp-content/uploads/2020/01/16022022/Iroha-zaka_slope_pass_8.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://docker.car-moby.com/article</oa:authorUrl>
 			</oa:imgAuthor>
 									
-			<oa:reflink><oa:refTitle>運転が不慣れな人に朗報！“初心者モード”をカーナビアプリ「NAVITIMEドライブサポーター」に追加！</oa:refTitle><oa:refUrl>http://localhost/article/drive/general/navitime-drive-suppoter/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>【荒船山・世界遺産荒船風穴】ドライブフォトレポート</oa:refTitle><oa:refUrl>http://localhost/article/drive/drive-spot-course/mt-arafune/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>女体山頂＠筑波山と昭和へタイムスリップ</oa:refTitle><oa:refUrl>http://localhost/article/drive/mt-tsukuba/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>運転が不慣れな人に朗報！“初心者モード”をカーナビアプリ「NAVITIMEドライブサポーター」に追加！</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/drive/general/navitime-drive-suppoter/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>【荒船山・世界遺産荒船風穴】ドライブフォトレポート</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/drive/drive-spot-course/mt-arafune/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>女体山頂＠筑波山と昭和へタイムスリップ</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/drive/mt-tsukuba/</oa:refUrl></oa:reflink>
 			
 						<oa:lastPubDate>
 				Thu, 16 Jan 2020 12:30:30 +0900
@@ -454,7 +454,7 @@
 		<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=5673</guid>
 			<title><![CDATA[新型MINI クラブマン試乗レポ「ジェントルマン」なクルマ]]></title>
-			<link>http://localhost/article/automobile/mini/clubman/test-drive-report-2/</link>
+			<link>http://docker.car-moby.com/article/automobile/mini/clubman/test-drive-report-2/</link>
 			<pubDate>Wed, 15 Jan 2020 23:59:31 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -524,17 +524,17 @@
 					
 					<p><small>※スマートニュース、LINEニュースなどのアプリでは、リンクやYouTubeなどの表示がされませんので、この画面下部にあるオリジナルサイトへのリンクからご覧ください。</small></p>
 					<p><small>※参考リンクはオリジナルサイトでご覧ください</small></p>
-					<p><small><a href="http://localhost/article/automobile/mini/clubman/test-drive-report-2/">オリジナルサイトで読む</a></small></p>
+					<p><small><a href="http://docker.car-moby.com/article/automobile/mini/clubman/test-drive-report-2/">オリジナルサイトで読む</a></small></p>
 			]]></description>
 			<enclosure url="https://cdn.car-moby.jp/article/wp-content/uploads/2020/01/08000653/MINI_Clubman_Cooper_S_All4-1-49.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://docker.car-moby.com/article</oa:authorUrl>
 			</oa:imgAuthor>
 									
-			<oa:reflink><oa:refTitle>トヨタ C-HR GR SPORT 試乗レポート｜お買い得な程よいスポーツSUV</oa:refTitle><oa:refUrl>http://localhost/article/automobile/toyota/c-hr/gr-sport-test-drive/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>新型スカイライン ハイブリッド試乗レポ「技術の日産」ここにあり。</oa:refTitle><oa:refUrl>http://localhost/article/automobile/nissan/skyline/hybrid-test-drive-report/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>マツダ3 ファストバック ディーゼル 試乗レポ「デザインに惚れたら買い」で正解</oa:refTitle><oa:refUrl>http://localhost/article/automobile/mazda/mazda3/test-drive-report/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>トヨタ C-HR GR SPORT 試乗レポート｜お買い得な程よいスポーツSUV</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/toyota/c-hr/gr-sport-test-drive/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>新型スカイライン ハイブリッド試乗レポ「技術の日産」ここにあり。</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/nissan/skyline/hybrid-test-drive-report/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>マツダ3 ファストバック ディーゼル 試乗レポ「デザインに惚れたら買い」で正解</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/mazda/mazda3/test-drive-report/</oa:refUrl></oa:reflink>
 			
 						<oa:lastPubDate>
 				Thu, 16 Jan 2020 01:52:01 +0900
@@ -545,7 +545,7 @@
 		<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=6867</guid>
 			<title><![CDATA[【KENWOOD 彩速ナビ】新型3モデル発売開始]]></title>
-			<link>http://localhost/article/news/kenwood-car-navigation/</link>
+			<link>http://docker.car-moby.com/article/news/kenwood-car-navigation/</link>
 			<pubDate>Sun, 12 Jan 2020 00:00:31 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -565,17 +565,17 @@
 					
 					<p><small>※スマートニュース、LINEニュースなどのアプリでは、リンクやYouTubeなどの表示がされませんので、この画面下部にあるオリジナルサイトへのリンクからご覧ください。</small></p>
 					<p><small>※参考リンクはオリジナルサイトでご覧ください</small></p>
-					<p><small><a href="http://localhost/article/news/kenwood-car-navigation/">オリジナルサイトで読む</a></small></p>
+					<p><small><a href="http://docker.car-moby.com/article/news/kenwood-car-navigation/">オリジナルサイトで読む</a></small></p>
 			]]></description>
 			<enclosure url="https://cdn.car-moby.jp/article/wp-content/uploads/2020/01/15120606/kenwood_saisoku_navigation_mdv_s707l.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://docker.car-moby.com/article</oa:authorUrl>
 			</oa:imgAuthor>
 									
-			<oa:reflink><oa:refTitle>【ジャガー】新車で買える現行車種一覧｜2019年最新情報</oa:refTitle><oa:refUrl>http://localhost/article/automobile/jaguar/2019-new-model-summary-6/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>三菱新型eKクロス スペース・新型eKスペースが東京オートサロン2020に出展</oa:refTitle><oa:refUrl>http://localhost/article/automobile/mitsubishi/ek-cross-space/ek-cross-space-ek-space-tokyo-auto-salon-2020/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>アウディ新型SQ2発売開始｜より高性能なスポーツ・コンパクトSUV</oa:refTitle><oa:refUrl>http://localhost/article/automobile/audi/sq2/new-52/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>【ジャガー】新車で買える現行車種一覧｜2019年最新情報</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/jaguar/2019-new-model-summary-6/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>三菱新型eKクロス スペース・新型eKスペースが東京オートサロン2020に出展</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/mitsubishi/ek-cross-space/ek-cross-space-ek-space-tokyo-auto-salon-2020/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>アウディ新型SQ2発売開始｜より高性能なスポーツ・コンパクトSUV</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/audi/sq2/new-52/</oa:refUrl></oa:reflink>
 			
 						<oa:lastPubDate>
 				Wed, 15 Jan 2020 17:50:55 +0900
@@ -586,7 +586,7 @@
 		<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=5595</guid>
 			<title><![CDATA[【トヨタ カローラ レビン（AE86）】型式で愛されるFRの軽量スポーツ]]></title>
-			<link>http://localhost/article/automobile/toyota/corolla-levin/ae86-5th-generation/</link>
+			<link>http://docker.car-moby.com/article/automobile/toyota/corolla-levin/ae86-5th-generation/</link>
 			<pubDate>Sat, 11 Jan 2020 12:00:21 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -616,17 +616,17 @@
 					
 					<p><small>※スマートニュース、LINEニュースなどのアプリでは、リンクやYouTubeなどの表示がされませんので、この画面下部にあるオリジナルサイトへのリンクからご覧ください。</small></p>
 					<p><small>※参考リンクはオリジナルサイトでご覧ください</small></p>
-					<p><small><a href="http://localhost/article/automobile/toyota/corolla-levin/ae86-5th-generation/">オリジナルサイトで読む</a></small></p>
+					<p><small><a href="http://docker.car-moby.com/article/automobile/toyota/corolla-levin/ae86-5th-generation/">オリジナルサイトで読む</a></small></p>
 			]]></description>
 			<enclosure url="https://cdn.car-moby.jp/article/wp-content/uploads/2020/01/06135006/toyota_corolla_levin_ae86_front-1568x1046.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://docker.car-moby.com/article</oa:authorUrl>
 			</oa:imgAuthor>
 									
-			<oa:reflink><oa:refTitle>1億円超「日産 GT-R50 by イタルデザイン」納車開始へ｜東京オートサロン2020にも出展</oa:refTitle><oa:refUrl>http://localhost/article/automobile/nissan/gt-r/50-by-italdesign-tokyo-auto-salon-2020/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>【トヨタ カローラ AE82】メカニズム刷新！FFで登場したスポーツセダン</oa:refTitle><oa:refUrl>http://localhost/article/automobile/toyota/corolla/ae82-5th-generation/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>【トヨタ カローラ（1600GT）】カローラ最後のFRに登場した本格派スポーツ</oa:refTitle><oa:refUrl>http://localhost/article/automobile/toyota/corolla/4th-generation-1600-gt/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>1億円超「日産 GT-R50 by イタルデザイン」納車開始へ｜東京オートサロン2020にも出展</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/nissan/gt-r/50-by-italdesign-tokyo-auto-salon-2020/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>【トヨタ カローラ AE82】メカニズム刷新！FFで登場したスポーツセダン</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/toyota/corolla/ae82-5th-generation/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>【トヨタ カローラ（1600GT）】カローラ最後のFRに登場した本格派スポーツ</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/toyota/corolla/4th-generation-1600-gt/</oa:refUrl></oa:reflink>
 			
 						<oa:lastPubDate>
 				Thu, 09 Jan 2020 14:37:29 +0900
@@ -637,7 +637,7 @@
 		<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=5606</guid>
 			<title><![CDATA[【トヨタ カローラ AE82】メカニズム刷新！FFで登場したスポーツセダン]]></title>
-			<link>http://localhost/article/automobile/toyota/corolla/ae82-5th-generation/</link>
+			<link>http://docker.car-moby.com/article/automobile/toyota/corolla/ae82-5th-generation/</link>
 			<pubDate>Sat, 11 Jan 2020 12:00:11 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -667,17 +667,17 @@
 					
 					<p><small>※スマートニュース、LINEニュースなどのアプリでは、リンクやYouTubeなどの表示がされませんので、この画面下部にあるオリジナルサイトへのリンクからご覧ください。</small></p>
 					<p><small>※参考リンクはオリジナルサイトでご覧ください</small></p>
-					<p><small><a href="http://localhost/article/automobile/toyota/corolla/ae82-5th-generation/">オリジナルサイトで読む</a></small></p>
+					<p><small><a href="http://docker.car-moby.com/article/automobile/toyota/corolla/ae82-5th-generation/">オリジナルサイトで読む</a></small></p>
 			]]></description>
 			<enclosure url="https://cdn.car-moby.jp/article/wp-content/uploads/2020/01/06134936/toyota_corolla_ae82_front-1568x1046.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://docker.car-moby.com/article</oa:authorUrl>
 			</oa:imgAuthor>
 									
-			<oa:reflink><oa:refTitle>【トヨタ カローラ（1600GT）】カローラ最後のFRに登場した本格派スポーツ</oa:refTitle><oa:refUrl>http://localhost/article/automobile/toyota/corolla/4th-generation-1600-gt/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>【トヨタ カローラ レビン（AE86）】型式で愛されるFRの軽量スポーツ</oa:refTitle><oa:refUrl>http://localhost/article/automobile/toyota/corolla-levin/ae86-5th-generation/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>【トヨタ カローラ（TE20型）】ハイウェイ時代到来に2代目の余裕</oa:refTitle><oa:refUrl>http://localhost/article/automobile/toyota/corolla/2nd-generation/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>【トヨタ カローラ（1600GT）】カローラ最後のFRに登場した本格派スポーツ</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/toyota/corolla/4th-generation-1600-gt/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>【トヨタ カローラ レビン（AE86）】型式で愛されるFRの軽量スポーツ</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/toyota/corolla-levin/ae86-5th-generation/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>【トヨタ カローラ（TE20型）】ハイウェイ時代到来に2代目の余裕</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/toyota/corolla/2nd-generation/</oa:refUrl></oa:reflink>
 			
 						<oa:lastPubDate>
 				Thu, 09 Jan 2020 14:37:21 +0900
@@ -688,7 +688,7 @@
 		<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=5943</guid>
 			<title><![CDATA[【本日開催中】東京オートサロン2020開催概要・みどころ]]></title>
-			<link>http://localhost/article/event/automobile-event/tokyo-auto-salon-2020-summary/</link>
+			<link>http://docker.car-moby.com/article/event/automobile-event/tokyo-auto-salon-2020-summary/</link>
 			<pubDate>Sat, 11 Jan 2020 01:30:04 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -808,17 +808,17 @@
 					
 					<p><small>※スマートニュース、LINEニュースなどのアプリでは、リンクやYouTubeなどの表示がされませんので、この画面下部にあるオリジナルサイトへのリンクからご覧ください。</small></p>
 					<p><small>※参考リンクはオリジナルサイトでご覧ください</small></p>
-					<p><small><a href="http://localhost/article/event/automobile-event/tokyo-auto-salon-2020-summary/">オリジナルサイトで読む</a></small></p>
+					<p><small><a href="http://docker.car-moby.com/article/event/automobile-event/tokyo-auto-salon-2020-summary/">オリジナルサイトで読む</a></small></p>
 			]]></description>
 			<enclosure url="https://cdn.car-moby.jp/article/wp-content/uploads/2020/02/07110101/%E5%B0%8F%E3%81%95%E3%81%84%E7%94%BB%E5%83%8F%E4%BF%9D%E5%AD%98_-12345x812.png" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://docker.car-moby.com/article</oa:authorUrl>
 			</oa:imgAuthor>
 									
-			<oa:reflink><oa:refTitle>【トヨタGRヤリス】東京オートサロン2020で初公開</oa:refTitle><oa:refUrl>http://localhost/article/automobile/toyota/yaris/tokyo-autosalon-2020/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>【スバル】新型レヴォーグプロトタイプ STIスポーツを東京オートサロンにて初公開</oa:refTitle><oa:refUrl>http://localhost/article/automobile/subaru/levorg/prototype-sti-sport-tokyo-auto-salon-2020/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>ホンダ新型シビックセダンとシビックハッチバック発売へ！サンルーフをオプション設定</oa:refTitle><oa:refUrl>http://localhost/article/automobile/honda/civic/sedan-hatchback-new/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>【トヨタGRヤリス】東京オートサロン2020で初公開</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/toyota/yaris/tokyo-autosalon-2020/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>【スバル】新型レヴォーグプロトタイプ STIスポーツを東京オートサロンにて初公開</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/subaru/levorg/prototype-sti-sport-tokyo-auto-salon-2020/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>ホンダ新型シビックセダンとシビックハッチバック発売へ！サンルーフをオプション設定</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/honda/civic/sedan-hatchback-new/</oa:refUrl></oa:reflink>
 			
 						<oa:lastPubDate>
 				Sat, 07 Mar 2020 14:54:29 +0900
@@ -829,7 +829,7 @@
 		<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=6546</guid>
 			<title><![CDATA[【トヨタ ハイラックスGRGコンセプト】東京オートサロン2020に登場！GRガレージで限定発売へ]]></title>
-			<link>http://localhost/article/automobile/toyota/hilux/hilux-grg-concept-tokyo-auto-salon-2020/</link>
+			<link>http://docker.car-moby.com/article/automobile/toyota/hilux/hilux-grg-concept-tokyo-auto-salon-2020/</link>
 			<pubDate>Fri, 10 Jan 2020 18:52:52 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -857,17 +857,17 @@
 					
 					<p><small>※スマートニュース、LINEニュースなどのアプリでは、リンクやYouTubeなどの表示がされませんので、この画面下部にあるオリジナルサイトへのリンクからご覧ください。</small></p>
 					<p><small>※参考リンクはオリジナルサイトでご覧ください</small></p>
-					<p><small><a href="http://localhost/article/automobile/toyota/hilux/hilux-grg-concept-tokyo-auto-salon-2020/">オリジナルサイトで読む</a></small></p>
+					<p><small><a href="http://docker.car-moby.com/article/automobile/toyota/hilux/hilux-grg-concept-tokyo-auto-salon-2020/">オリジナルサイトで読む</a></small></p>
 			]]></description>
 			<enclosure url="https://cdn.car-moby.jp/article/wp-content/uploads/2020/01/10184548/GR-garage_hilux-grg-concept_tokyo_auto_salon_2020-01.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://docker.car-moby.com/article</oa:authorUrl>
 			</oa:imgAuthor>
 									
-			<oa:reflink><oa:refTitle>【トヨタGRヤリス】東京オートサロン2020で初公開</oa:refTitle><oa:refUrl>http://localhost/article/automobile/toyota/yaris/tokyo-autosalon-2020/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>マツダ CX-30のお得なカスタマイズパッケージが2月3日発売</oa:refTitle><oa:refUrl>http://localhost/article/automobile/mazda/cx-30/signature-style/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>【スバル】新型レヴォーグプロトタイプ STIスポーツを東京オートサロンにて初公開</oa:refTitle><oa:refUrl>http://localhost/article/automobile/subaru/levorg/prototype-sti-sport-tokyo-auto-salon-2020/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>【トヨタGRヤリス】東京オートサロン2020で初公開</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/toyota/yaris/tokyo-autosalon-2020/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>マツダ CX-30のお得なカスタマイズパッケージが2月3日発売</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/mazda/cx-30/signature-style/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>【スバル】新型レヴォーグプロトタイプ STIスポーツを東京オートサロンにて初公開</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/subaru/levorg/prototype-sti-sport-tokyo-auto-salon-2020/</oa:refUrl></oa:reflink>
 			
 						<oa:lastPubDate>
 				Fri, 10 Jan 2020 18:52:52 +0900
@@ -878,7 +878,7 @@
 		<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=6241</guid>
 			<title><![CDATA[ホンダ新型S660発売！モデューロXもマイナーチェンジ]]></title>
-			<link>http://localhost/article/automobile/honda/s660/new-model-debut/</link>
+			<link>http://docker.car-moby.com/article/automobile/honda/s660/new-model-debut/</link>
 			<pubDate>Fri, 10 Jan 2020 17:42:01 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -904,17 +904,17 @@
 					
 					<p><small>※スマートニュース、LINEニュースなどのアプリでは、リンクやYouTubeなどの表示がされませんので、この画面下部にあるオリジナルサイトへのリンクからご覧ください。</small></p>
 					<p><small>※参考リンクはオリジナルサイトでご覧ください</small></p>
-					<p><small><a href="http://localhost/article/automobile/honda/s660/new-model-debut/">オリジナルサイトで読む</a></small></p>
+					<p><small><a href="http://docker.car-moby.com/article/automobile/honda/s660/new-model-debut/">オリジナルサイトで読む</a></small></p>
 			]]></description>
 			<enclosure url="https://cdn.car-moby.jp/article/wp-content/uploads/2020/01/10171422/honda_s660_modulo_x_front_side-1568x844.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://docker.car-moby.com/article</oa:authorUrl>
 			</oa:imgAuthor>
 									
-			<oa:reflink><oa:refTitle>三菱新型eKクロス スペース・新型eKスペースが東京オートサロン2020に出展</oa:refTitle><oa:refUrl>http://localhost/article/automobile/mitsubishi/ek-cross-space/ek-cross-space-ek-space-tokyo-auto-salon-2020/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>スズキ新型ハスラー フルモデルチェンジ！進化したポイントまとめ</oa:refTitle><oa:refUrl>http://localhost/article/automobile/suzuki/hustler/new-49/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>日産デイズルークス新型か？軽EVコンセプト「IMk」を東京モーターショー2019で発表</oa:refTitle><oa:refUrl>http://localhost/article/automobile/nissan/days-roox/imk-concept-tokyo-motor-show-2019/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>三菱新型eKクロス スペース・新型eKスペースが東京オートサロン2020に出展</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/mitsubishi/ek-cross-space/ek-cross-space-ek-space-tokyo-auto-salon-2020/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>スズキ新型ハスラー フルモデルチェンジ！進化したポイントまとめ</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/suzuki/hustler/new-49/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>日産デイズルークス新型か？軽EVコンセプト「IMk」を東京モーターショー2019で発表</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/nissan/days-roox/imk-concept-tokyo-motor-show-2019/</oa:refUrl></oa:reflink>
 			
 						<oa:lastPubDate>
 				Fri, 10 Jan 2020 17:42:02 +0900
@@ -925,7 +925,7 @@
 		<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=3674</guid>
 			<title><![CDATA[【トヨタGRヤリス】東京オートサロン2020で初公開]]></title>
-			<link>http://localhost/article/automobile/toyota/yaris/tokyo-autosalon-2020/</link>
+			<link>http://docker.car-moby.com/article/automobile/toyota/yaris/tokyo-autosalon-2020/</link>
 			<pubDate>Fri, 10 Jan 2020 17:00:15 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -951,17 +951,17 @@
 					
 					<p><small>※スマートニュース、LINEニュースなどのアプリでは、リンクやYouTubeなどの表示がされませんので、この画面下部にあるオリジナルサイトへのリンクからご覧ください。</small></p>
 					<p><small>※参考リンクはオリジナルサイトでご覧ください</small></p>
-					<p><small><a href="http://localhost/article/automobile/toyota/yaris/tokyo-autosalon-2020/">オリジナルサイトで読む</a></small></p>
+					<p><small><a href="http://docker.car-moby.com/article/automobile/toyota/yaris/tokyo-autosalon-2020/">オリジナルサイトで読む</a></small></p>
 			]]></description>
 			<enclosure url="https://cdn.car-moby.jp/article/wp-content/uploads/2019/12/10171912/toyota_gr_yaris_tokyo_auto_salon_2020.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://docker.car-moby.com/article</oa:authorUrl>
 			</oa:imgAuthor>
 									
-			<oa:reflink><oa:refTitle>1億円超「日産 GT-R50 by イタルデザイン」納車開始へ｜東京オートサロン2020にも出展</oa:refTitle><oa:refUrl>http://localhost/article/automobile/nissan/gt-r/50-by-italdesign-tokyo-auto-salon-2020/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>【日産】新車で買える現行車種一覧｜2019年最新情報</oa:refTitle><oa:refUrl>http://localhost/article/automobile/nissan/2019-new-model-summary-2/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>新型「シボレー カマロ」予約受付を開始！限定モデルも販売</oa:refTitle><oa:refUrl>http://localhost/article/automobile/chevrolet/camaro/2020-model-debut/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>1億円超「日産 GT-R50 by イタルデザイン」納車開始へ｜東京オートサロン2020にも出展</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/nissan/gt-r/50-by-italdesign-tokyo-auto-salon-2020/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>【日産】新車で買える現行車種一覧｜2019年最新情報</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/nissan/2019-new-model-summary-2/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>新型「シボレー カマロ」予約受付を開始！限定モデルも販売</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/chevrolet/camaro/2020-model-debut/</oa:refUrl></oa:reflink>
 			
 						<oa:lastPubDate>
 				Fri, 10 Jan 2020 17:23:52 +0900
@@ -972,7 +972,7 @@
 		<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=6449</guid>
 			<title><![CDATA[新型「シボレー カマロ」予約受付を開始！限定モデルも販売]]></title>
-			<link>http://localhost/article/automobile/chevrolet/camaro/2020-model-debut/</link>
+			<link>http://docker.car-moby.com/article/automobile/chevrolet/camaro/2020-model-debut/</link>
 			<pubDate>Fri, 10 Jan 2020 16:58:25 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -1008,17 +1008,17 @@
 					
 					<p><small>※スマートニュース、LINEニュースなどのアプリでは、リンクやYouTubeなどの表示がされませんので、この画面下部にあるオリジナルサイトへのリンクからご覧ください。</small></p>
 					<p><small>※参考リンクはオリジナルサイトでご覧ください</small></p>
-					<p><small><a href="http://localhost/article/automobile/chevrolet/camaro/2020-model-debut/">オリジナルサイトで読む</a></small></p>
+					<p><small><a href="http://docker.car-moby.com/article/automobile/chevrolet/camaro/2020-model-debut/">オリジナルサイトで読む</a></small></p>
 			]]></description>
 			<enclosure url="https://cdn.car-moby.jp/article/wp-content/uploads/2020/01/10164921/Chevrolet_camaro-convertible_tokyo_auto_salon_2020.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://docker.car-moby.com/article</oa:authorUrl>
 			</oa:imgAuthor>
 									
-			<oa:reflink><oa:refTitle>新型「シボレーコルベット」東京オートサロン2020で国内初公開｜右ハンドル車投入も</oa:refTitle><oa:refUrl>http://localhost/article/automobile/chevrolet/corvette/tokyo-auto-salon-2020-2/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>新型「シボレーコルベット」予約受付を開始！プレオーダーキャンペーンも</oa:refTitle><oa:refUrl>http://localhost/article/automobile/chevrolet/corvette/pre-order-campaign/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>ルノー新型メガーヌ R.S. トロフィーR 東京オートサロン2020に出展</oa:refTitle><oa:refUrl>http://localhost/article/automobile/renault/megane-r-s/trophy-r-tokyo-auto-salon-2020/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>新型「シボレーコルベット」東京オートサロン2020で国内初公開｜右ハンドル車投入も</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/chevrolet/corvette/tokyo-auto-salon-2020-2/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>新型「シボレーコルベット」予約受付を開始！プレオーダーキャンペーンも</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/chevrolet/corvette/pre-order-campaign/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>ルノー新型メガーヌ R.S. トロフィーR 東京オートサロン2020に出展</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/renault/megane-r-s/trophy-r-tokyo-auto-salon-2020/</oa:refUrl></oa:reflink>
 			
 						<oa:lastPubDate>
 				Fri, 10 Jan 2020 16:58:26 +0900
@@ -1029,7 +1029,7 @@
 		<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=5799</guid>
 			<title><![CDATA[新型「シボレーコルベット」東京オートサロン2020で国内初公開｜右ハンドル車投入も]]></title>
-			<link>http://localhost/article/automobile/chevrolet/corvette/tokyo-auto-salon-2020-2/</link>
+			<link>http://docker.car-moby.com/article/automobile/chevrolet/corvette/tokyo-auto-salon-2020-2/</link>
 			<pubDate>Fri, 10 Jan 2020 14:50:06 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -1043,17 +1043,17 @@
 					
 					<p><small>※スマートニュース、LINEニュースなどのアプリでは、リンクやYouTubeなどの表示がされませんので、この画面下部にあるオリジナルサイトへのリンクからご覧ください。</small></p>
 					<p><small>※参考リンクはオリジナルサイトでご覧ください</small></p>
-					<p><small><a href="http://localhost/article/automobile/chevrolet/corvette/tokyo-auto-salon-2020-2/">オリジナルサイトで読む</a></small></p>
+					<p><small><a href="http://docker.car-moby.com/article/automobile/chevrolet/corvette/tokyo-auto-salon-2020-2/">オリジナルサイトで読む</a></small></p>
 			]]></description>
 			<enclosure url="https://cdn.car-moby.jp/article/wp-content/uploads/2020/01/10145409/Chevrolet_corvette_tokyo_auto_salon_2020.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://docker.car-moby.com/article</oa:authorUrl>
 			</oa:imgAuthor>
 									
-			<oa:reflink><oa:refTitle>新型「シボレー カマロ」予約受付を開始！限定モデルも販売</oa:refTitle><oa:refUrl>http://localhost/article/automobile/chevrolet/camaro/2020-model-debut/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>新型「シボレーコルベット」予約受付を開始！プレオーダーキャンペーンも</oa:refTitle><oa:refUrl>http://localhost/article/automobile/chevrolet/corvette/pre-order-campaign/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>ホンダ新型シビックセダンとシビックハッチバック発売へ！サンルーフをオプション設定</oa:refTitle><oa:refUrl>http://localhost/article/automobile/honda/civic/sedan-hatchback-new/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>新型「シボレー カマロ」予約受付を開始！限定モデルも販売</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/chevrolet/camaro/2020-model-debut/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>新型「シボレーコルベット」予約受付を開始！プレオーダーキャンペーンも</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/chevrolet/corvette/pre-order-campaign/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>ホンダ新型シビックセダンとシビックハッチバック発売へ！サンルーフをオプション設定</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/honda/civic/sedan-hatchback-new/</oa:refUrl></oa:reflink>
 			
 						<oa:lastPubDate>
 				Fri, 10 Jan 2020 14:57:38 +0900
@@ -1064,7 +1064,7 @@
 		<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=6365</guid>
 			<title><![CDATA[新型「シボレーコルベット」予約受付を開始！プレオーダーキャンペーンも]]></title>
-			<link>http://localhost/article/automobile/chevrolet/corvette/pre-order-campaign/</link>
+			<link>http://docker.car-moby.com/article/automobile/chevrolet/corvette/pre-order-campaign/</link>
 			<pubDate>Fri, 10 Jan 2020 14:45:56 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -1093,17 +1093,17 @@
 					
 					<p><small>※スマートニュース、LINEニュースなどのアプリでは、リンクやYouTubeなどの表示がされませんので、この画面下部にあるオリジナルサイトへのリンクからご覧ください。</small></p>
 					<p><small>※参考リンクはオリジナルサイトでご覧ください</small></p>
-					<p><small><a href="http://localhost/article/automobile/chevrolet/corvette/pre-order-campaign/">オリジナルサイトで読む</a></small></p>
+					<p><small><a href="http://docker.car-moby.com/article/automobile/chevrolet/corvette/pre-order-campaign/">オリジナルサイトで読む</a></small></p>
 			]]></description>
 			<enclosure url="https://cdn.car-moby.jp/article/wp-content/uploads/2020/01/10145409/Chevrolet_corvette_tokyo_auto_salon_2020.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://docker.car-moby.com/article</oa:authorUrl>
 			</oa:imgAuthor>
 									
-			<oa:reflink><oa:refTitle>新型「シボレー カマロ」予約受付を開始！限定モデルも販売</oa:refTitle><oa:refUrl>http://localhost/article/automobile/chevrolet/camaro/2020-model-debut/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>新型「シボレーコルベット」東京オートサロン2020で国内初公開｜右ハンドル車投入も</oa:refTitle><oa:refUrl>http://localhost/article/automobile/chevrolet/corvette/tokyo-auto-salon-2020-2/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>ホンダ新型S660発売！モデューロXもマイナーチェンジ</oa:refTitle><oa:refUrl>http://localhost/article/automobile/honda/s660/new-model-debut/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>新型「シボレー カマロ」予約受付を開始！限定モデルも販売</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/chevrolet/camaro/2020-model-debut/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>新型「シボレーコルベット」東京オートサロン2020で国内初公開｜右ハンドル車投入も</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/chevrolet/corvette/tokyo-auto-salon-2020-2/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>ホンダ新型S660発売！モデューロXもマイナーチェンジ</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/honda/s660/new-model-debut/</oa:refUrl></oa:reflink>
 			
 						<oa:lastPubDate>
 				Fri, 10 Jan 2020 15:33:46 +0900
@@ -1114,7 +1114,7 @@
 		<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=6209</guid>
 			<title><![CDATA[三菱新型eKクロス スペース・新型eKスペースが東京オートサロン2020に出展]]></title>
-			<link>http://localhost/article/automobile/mitsubishi/ek-cross-space/ek-cross-space-ek-space-tokyo-auto-salon-2020/</link>
+			<link>http://docker.car-moby.com/article/automobile/mitsubishi/ek-cross-space/ek-cross-space-ek-space-tokyo-auto-salon-2020/</link>
 			<pubDate>Fri, 10 Jan 2020 14:44:12 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -1132,17 +1132,17 @@
 					
 					<p><small>※スマートニュース、LINEニュースなどのアプリでは、リンクやYouTubeなどの表示がされませんので、この画面下部にあるオリジナルサイトへのリンクからご覧ください。</small></p>
 					<p><small>※参考リンクはオリジナルサイトでご覧ください</small></p>
-					<p><small><a href="http://localhost/article/automobile/mitsubishi/ek-cross-space/ek-cross-space-ek-space-tokyo-auto-salon-2020/">オリジナルサイトで読む</a></small></p>
+					<p><small><a href="http://docker.car-moby.com/article/automobile/mitsubishi/ek-cross-space/ek-cross-space-ek-space-tokyo-auto-salon-2020/">オリジナルサイトで読む</a></small></p>
 			]]></description>
 			<enclosure url="https://cdn.car-moby.jp/article/wp-content/uploads/2020/01/10143044/Mitsubishi_eK-cross-space-tokyo-auto-salon-2020.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://docker.car-moby.com/article</oa:authorUrl>
 			</oa:imgAuthor>
 									
-			<oa:reflink><oa:refTitle>【スバル】東京オートサロン2020出展車を発表｜注目は新型レヴォーグSTIスポーツ</oa:refTitle><oa:refUrl>http://localhost/article/automobile/subaru/tokyo-auto-salon-2020-5/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>ホンダ新型S660発売！モデューロXもマイナーチェンジ</oa:refTitle><oa:refUrl>http://localhost/article/automobile/honda/s660/new-model-debut/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>【スバル】新型レヴォーグプロトタイプ STIスポーツを東京オートサロンにて初公開</oa:refTitle><oa:refUrl>http://localhost/article/automobile/subaru/levorg/prototype-sti-sport-tokyo-auto-salon-2020/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>【スバル】東京オートサロン2020出展車を発表｜注目は新型レヴォーグSTIスポーツ</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/subaru/tokyo-auto-salon-2020-5/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>ホンダ新型S660発売！モデューロXもマイナーチェンジ</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/honda/s660/new-model-debut/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>【スバル】新型レヴォーグプロトタイプ STIスポーツを東京オートサロンにて初公開</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/subaru/levorg/prototype-sti-sport-tokyo-auto-salon-2020/</oa:refUrl></oa:reflink>
 			
 						<oa:lastPubDate>
 				Fri, 10 Jan 2020 16:33:23 +0900
@@ -1153,7 +1153,7 @@
 		<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=6334</guid>
 			<title><![CDATA[マツダ CX-30のお得なカスタマイズパッケージが2月3日発売]]></title>
-			<link>http://localhost/article/automobile/mazda/cx-30/signature-style/</link>
+			<link>http://docker.car-moby.com/article/automobile/mazda/cx-30/signature-style/</link>
 			<pubDate>Fri, 10 Jan 2020 14:17:26 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -1173,17 +1173,17 @@
 					
 					<p><small>※スマートニュース、LINEニュースなどのアプリでは、リンクやYouTubeなどの表示がされませんので、この画面下部にあるオリジナルサイトへのリンクからご覧ください。</small></p>
 					<p><small>※参考リンクはオリジナルサイトでご覧ください</small></p>
-					<p><small><a href="http://localhost/article/automobile/mazda/cx-30/signature-style/">オリジナルサイトで読む</a></small></p>
+					<p><small><a href="http://docker.car-moby.com/article/automobile/mazda/cx-30/signature-style/">オリジナルサイトで読む</a></small></p>
 			]]></description>
 			<enclosure url="https://cdn.car-moby.jp/article/wp-content/uploads/2020/01/10140836/Mazda_cx-30_signature-style-01-1568x1034.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://docker.car-moby.com/article</oa:authorUrl>
 			</oa:imgAuthor>
 									
-			<oa:reflink><oa:refTitle>【マツダ】東京オートサロン2020出展車両を発表</oa:refTitle><oa:refUrl>http://localhost/article/automobile/mazda/tokyo-auto-salon-2020/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>【トヨタGRヤリス】東京オートサロン2020で初公開</oa:refTitle><oa:refUrl>http://localhost/article/automobile/toyota/yaris/tokyo-autosalon-2020/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>新型「シボレー カマロ」予約受付を開始！限定モデルも販売</oa:refTitle><oa:refUrl>http://localhost/article/automobile/chevrolet/camaro/2020-model-debut/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>【マツダ】東京オートサロン2020出展車両を発表</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/mazda/tokyo-auto-salon-2020/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>【トヨタGRヤリス】東京オートサロン2020で初公開</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/toyota/yaris/tokyo-autosalon-2020/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>新型「シボレー カマロ」予約受付を開始！限定モデルも販売</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/chevrolet/camaro/2020-model-debut/</oa:refUrl></oa:reflink>
 			
 						<oa:lastPubDate>
 				Fri, 10 Jan 2020 16:40:06 +0900
@@ -1194,7 +1194,7 @@
 		<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=6324</guid>
 			<title><![CDATA[【スバル】新型レヴォーグプロトタイプ STIスポーツを東京オートサロンにて初公開]]></title>
-			<link>http://localhost/article/automobile/subaru/levorg/prototype-sti-sport-tokyo-auto-salon-2020/</link>
+			<link>http://docker.car-moby.com/article/automobile/subaru/levorg/prototype-sti-sport-tokyo-auto-salon-2020/</link>
 			<pubDate>Fri, 10 Jan 2020 13:32:48 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -1213,17 +1213,17 @@
 					
 					<p><small>※スマートニュース、LINEニュースなどのアプリでは、リンクやYouTubeなどの表示がされませんので、この画面下部にあるオリジナルサイトへのリンクからご覧ください。</small></p>
 					<p><small>※参考リンクはオリジナルサイトでご覧ください</small></p>
-					<p><small><a href="http://localhost/article/automobile/subaru/levorg/prototype-sti-sport-tokyo-auto-salon-2020/">オリジナルサイトで読む</a></small></p>
+					<p><small><a href="http://docker.car-moby.com/article/automobile/subaru/levorg/prototype-sti-sport-tokyo-auto-salon-2020/">オリジナルサイトで読む</a></small></p>
 			]]></description>
 			<enclosure url="https://cdn.car-moby.jp/article/wp-content/uploads/2020/01/10132702/Subaru_levorg-prototype-sti-sport_okyo_auto_salon_2020-2.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://docker.car-moby.com/article</oa:authorUrl>
 			</oa:imgAuthor>
 									
-			<oa:reflink><oa:refTitle>【スバル】東京オートサロン2020出展車を発表｜注目は新型レヴォーグSTIスポーツ</oa:refTitle><oa:refUrl>http://localhost/article/automobile/subaru/tokyo-auto-salon-2020-5/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>ルノー新型メガーヌ R.S. トロフィーR 東京オートサロン2020に出展</oa:refTitle><oa:refUrl>http://localhost/article/automobile/renault/megane-r-s/trophy-r-tokyo-auto-salon-2020/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>新型「シボレーコルベット」東京オートサロン2020で国内初公開｜右ハンドル車投入も</oa:refTitle><oa:refUrl>http://localhost/article/automobile/chevrolet/corvette/tokyo-auto-salon-2020-2/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>【スバル】東京オートサロン2020出展車を発表｜注目は新型レヴォーグSTIスポーツ</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/subaru/tokyo-auto-salon-2020-5/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>ルノー新型メガーヌ R.S. トロフィーR 東京オートサロン2020に出展</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/renault/megane-r-s/trophy-r-tokyo-auto-salon-2020/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>新型「シボレーコルベット」東京オートサロン2020で国内初公開｜右ハンドル車投入も</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/chevrolet/corvette/tokyo-auto-salon-2020-2/</oa:refUrl></oa:reflink>
 			
 						<oa:lastPubDate>
 				Fri, 10 Jan 2020 16:38:24 +0900
@@ -1234,7 +1234,7 @@
 		<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=6220</guid>
 			<title><![CDATA[ホンダ新型シビックセダンとシビックハッチバック発売へ！サンルーフをオプション設定]]></title>
-			<link>http://localhost/article/automobile/honda/civic/sedan-hatchback-new/</link>
+			<link>http://docker.car-moby.com/article/automobile/honda/civic/sedan-hatchback-new/</link>
 			<pubDate>Fri, 10 Jan 2020 12:47:08 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -1261,17 +1261,17 @@
 					
 					<p><small>※スマートニュース、LINEニュースなどのアプリでは、リンクやYouTubeなどの表示がされませんので、この画面下部にあるオリジナルサイトへのリンクからご覧ください。</small></p>
 					<p><small>※参考リンクはオリジナルサイトでご覧ください</small></p>
-					<p><small><a href="http://localhost/article/automobile/honda/civic/sedan-hatchback-new/">オリジナルサイトで読む</a></small></p>
+					<p><small><a href="http://docker.car-moby.com/article/automobile/honda/civic/sedan-hatchback-new/">オリジナルサイトで読む</a></small></p>
 			]]></description>
 			<enclosure url="https://cdn.car-moby.jp/article/wp-content/uploads/2020/01/10120402/Honda_civic-hatch-back_civic-sedan_2020model-1568x798.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://docker.car-moby.com/article</oa:authorUrl>
 			</oa:imgAuthor>
 									
-			<oa:reflink><oa:refTitle>新型「シボレー カマロ」予約受付を開始！限定モデルも販売</oa:refTitle><oa:refUrl>http://localhost/article/automobile/chevrolet/camaro/2020-model-debut/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>【スバル】新型レヴォーグプロトタイプ STIスポーツを東京オートサロンにて初公開</oa:refTitle><oa:refUrl>http://localhost/article/automobile/subaru/levorg/prototype-sti-sport-tokyo-auto-salon-2020/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>三菱新型eKクロス スペース・新型eKスペースが東京オートサロン2020に出展</oa:refTitle><oa:refUrl>http://localhost/article/automobile/mitsubishi/ek-cross-space/ek-cross-space-ek-space-tokyo-auto-salon-2020/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>新型「シボレー カマロ」予約受付を開始！限定モデルも販売</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/chevrolet/camaro/2020-model-debut/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>【スバル】新型レヴォーグプロトタイプ STIスポーツを東京オートサロンにて初公開</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/subaru/levorg/prototype-sti-sport-tokyo-auto-salon-2020/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>三菱新型eKクロス スペース・新型eKスペースが東京オートサロン2020に出展</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/mitsubishi/ek-cross-space/ek-cross-space-ek-space-tokyo-auto-salon-2020/</oa:refUrl></oa:reflink>
 			
 						<oa:lastPubDate>
 				Fri, 10 Jan 2020 16:35:23 +0900
@@ -1282,7 +1282,7 @@
 		<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=5715</guid>
 			<title><![CDATA[【TOM&#8217;S】東京オートサロン2020でスープラ、センチュリー限定車を発表・受注開始]]></title>
-			<link>http://localhost/article/event/automobile-event/tokyo-auto-salon-2020-toms-supra-century/</link>
+			<link>http://docker.car-moby.com/article/event/automobile-event/tokyo-auto-salon-2020-toms-supra-century/</link>
 			<pubDate>Fri, 10 Jan 2020 11:00:58 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -1310,17 +1310,17 @@
 					
 					<p><small>※スマートニュース、LINEニュースなどのアプリでは、リンクやYouTubeなどの表示がされませんので、この画面下部にあるオリジナルサイトへのリンクからご覧ください。</small></p>
 					<p><small>※参考リンクはオリジナルサイトでご覧ください</small></p>
-					<p><small><a href="http://localhost/article/event/automobile-event/tokyo-auto-salon-2020-toms-supra-century/">オリジナルサイトで読む</a></small></p>
+					<p><small><a href="http://docker.car-moby.com/article/event/automobile-event/tokyo-auto-salon-2020-toms-supra-century/">オリジナルサイトで読む</a></small></p>
 			]]></description>
 			<enclosure url="https://cdn.car-moby.jp/article/wp-content/uploads/2020/01/10130838/Toms_supra_front_tokyo-auto-salon-2020-02.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://docker.car-moby.com/article</oa:authorUrl>
 			</oa:imgAuthor>
 									
-			<oa:reflink><oa:refTitle>【トヨタGRヤリス】東京オートサロン2020で初公開</oa:refTitle><oa:refUrl>http://localhost/article/automobile/toyota/yaris/tokyo-autosalon-2020/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>新型「シボレー カマロ」予約受付を開始！限定モデルも販売</oa:refTitle><oa:refUrl>http://localhost/article/automobile/chevrolet/camaro/2020-model-debut/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>マツダ CX-30のお得なカスタマイズパッケージが2月3日発売</oa:refTitle><oa:refUrl>http://localhost/article/automobile/mazda/cx-30/signature-style/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>【トヨタGRヤリス】東京オートサロン2020で初公開</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/toyota/yaris/tokyo-autosalon-2020/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>新型「シボレー カマロ」予約受付を開始！限定モデルも販売</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/chevrolet/camaro/2020-model-debut/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>マツダ CX-30のお得なカスタマイズパッケージが2月3日発売</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/mazda/cx-30/signature-style/</oa:refUrl></oa:reflink>
 			
 						<oa:lastPubDate>
 				Fri, 10 Jan 2020 13:10:26 +0900
@@ -1331,7 +1331,7 @@
 		<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=5801</guid>
 			<title><![CDATA[ルノー新型メガーヌ R.S. トロフィーR 東京オートサロン2020に出展]]></title>
-			<link>http://localhost/article/automobile/renault/megane-r-s/trophy-r-tokyo-auto-salon-2020/</link>
+			<link>http://docker.car-moby.com/article/automobile/renault/megane-r-s/trophy-r-tokyo-auto-salon-2020/</link>
 			<pubDate>Fri, 10 Jan 2020 10:32:26 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -1348,17 +1348,17 @@
 					
 					<p><small>※スマートニュース、LINEニュースなどのアプリでは、リンクやYouTubeなどの表示がされませんので、この画面下部にあるオリジナルサイトへのリンクからご覧ください。</small></p>
 					<p><small>※参考リンクはオリジナルサイトでご覧ください</small></p>
-					<p><small><a href="http://localhost/article/automobile/renault/megane-r-s/trophy-r-tokyo-auto-salon-2020/">オリジナルサイトで読む</a></small></p>
+					<p><small><a href="http://docker.car-moby.com/article/automobile/renault/megane-r-s/trophy-r-tokyo-auto-salon-2020/">オリジナルサイトで読む</a></small></p>
 			]]></description>
 			<enclosure url="https://cdn.car-moby.jp/article/wp-content/uploads/2020/01/08173221/renault_megane_rs_trophy_r_front_side-1568x1045.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://docker.car-moby.com/article</oa:authorUrl>
 			</oa:imgAuthor>
 									
-			<oa:reflink><oa:refTitle>新型「シボレー カマロ」予約受付を開始！限定モデルも販売</oa:refTitle><oa:refUrl>http://localhost/article/automobile/chevrolet/camaro/2020-model-debut/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>【スバル】新型レヴォーグプロトタイプ STIスポーツを東京オートサロンにて初公開</oa:refTitle><oa:refUrl>http://localhost/article/automobile/subaru/levorg/prototype-sti-sport-tokyo-auto-salon-2020/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>ホンダ新型シビックセダンとシビックハッチバック発売へ！サンルーフをオプション設定</oa:refTitle><oa:refUrl>http://localhost/article/automobile/honda/civic/sedan-hatchback-new/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>新型「シボレー カマロ」予約受付を開始！限定モデルも販売</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/chevrolet/camaro/2020-model-debut/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>【スバル】新型レヴォーグプロトタイプ STIスポーツを東京オートサロンにて初公開</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/subaru/levorg/prototype-sti-sport-tokyo-auto-salon-2020/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>ホンダ新型シビックセダンとシビックハッチバック発売へ！サンルーフをオプション設定</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/honda/civic/sedan-hatchback-new/</oa:refUrl></oa:reflink>
 			
 						<oa:lastPubDate>
 				Fri, 10 Jan 2020 10:32:26 +0900
@@ -1369,7 +1369,7 @@
 		<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=5858</guid>
 			<title><![CDATA[【三菱】東京オートサロン2020出展車を発表｜テリー伊藤が手掛けたデリカに注目]]></title>
-			<link>http://localhost/article/automobile/mitsubishi/tokyo-auto-salon-2020-4/</link>
+			<link>http://docker.car-moby.com/article/automobile/mitsubishi/tokyo-auto-salon-2020-4/</link>
 			<pubDate>Fri, 10 Jan 2020 10:00:41 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -1393,17 +1393,17 @@
 					
 					<p><small>※スマートニュース、LINEニュースなどのアプリでは、リンクやYouTubeなどの表示がされませんので、この画面下部にあるオリジナルサイトへのリンクからご覧ください。</small></p>
 					<p><small>※参考リンクはオリジナルサイトでご覧ください</small></p>
-					<p><small><a href="http://localhost/article/automobile/mitsubishi/tokyo-auto-salon-2020-4/">オリジナルサイトで読む</a></small></p>
+					<p><small><a href="http://docker.car-moby.com/article/automobile/mitsubishi/tokyo-auto-salon-2020-4/">オリジナルサイトで読む</a></small></p>
 			]]></description>
 			<enclosure url="https://cdn.car-moby.jp/article/wp-content/uploads/2020/01/08190455/Mitsubishi_ek-cross_wild-beast-concept_tokyo-auto-salon-2020.jpg.jpg.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://docker.car-moby.com/article</oa:authorUrl>
 			</oa:imgAuthor>
 									
-			<oa:reflink><oa:refTitle>三菱新型eKクロス スペース・新型eKスペースが東京オートサロン2020に出展</oa:refTitle><oa:refUrl>http://localhost/article/automobile/mitsubishi/ek-cross-space/ek-cross-space-ek-space-tokyo-auto-salon-2020/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>【トヨタGRヤリス】東京オートサロン2020で初公開</oa:refTitle><oa:refUrl>http://localhost/article/automobile/toyota/yaris/tokyo-autosalon-2020/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>新型「シボレー カマロ」予約受付を開始！限定モデルも販売</oa:refTitle><oa:refUrl>http://localhost/article/automobile/chevrolet/camaro/2020-model-debut/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>三菱新型eKクロス スペース・新型eKスペースが東京オートサロン2020に出展</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/mitsubishi/ek-cross-space/ek-cross-space-ek-space-tokyo-auto-salon-2020/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>【トヨタGRヤリス】東京オートサロン2020で初公開</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/toyota/yaris/tokyo-autosalon-2020/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>新型「シボレー カマロ」予約受付を開始！限定モデルも販売</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/chevrolet/camaro/2020-model-debut/</oa:refUrl></oa:reflink>
 			
 						<oa:lastPubDate>
 				Fri, 10 Jan 2020 10:15:23 +0900
@@ -1414,7 +1414,7 @@
 		<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=6070</guid>
 			<title><![CDATA[【モデリスタ/TRD】東京オートサロン2020出展車両を発表]]></title>
-			<link>http://localhost/article/event/automobile-event/modellista-trd-tokyo-auto-salon-2020/</link>
+			<link>http://docker.car-moby.com/article/event/automobile-event/modellista-trd-tokyo-auto-salon-2020/</link>
 			<pubDate>Thu, 09 Jan 2020 16:40:12 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -1437,17 +1437,17 @@
 					
 					<p><small>※スマートニュース、LINEニュースなどのアプリでは、リンクやYouTubeなどの表示がされませんので、この画面下部にあるオリジナルサイトへのリンクからご覧ください。</small></p>
 					<p><small>※参考リンクはオリジナルサイトでご覧ください</small></p>
-					<p><small><a href="http://localhost/article/event/automobile-event/modellista-trd-tokyo-auto-salon-2020/">オリジナルサイトで読む</a></small></p>
+					<p><small><a href="http://docker.car-moby.com/article/event/automobile-event/modellista-trd-tokyo-auto-salon-2020/">オリジナルサイトで読む</a></small></p>
 			]]></description>
 			<enclosure url="https://cdn.car-moby.jp/article/wp-content/uploads/2020/01/09162557/TRD_hilux_tokyo-auto-salon-2020-1568x1120.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://docker.car-moby.com/article</oa:authorUrl>
 			</oa:imgAuthor>
 									
-			<oa:reflink><oa:refTitle>【トヨタGRヤリス】東京オートサロン2020で初公開</oa:refTitle><oa:refUrl>http://localhost/article/automobile/toyota/yaris/tokyo-autosalon-2020/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>【スバル】新型レヴォーグプロトタイプ STIスポーツを東京オートサロンにて初公開</oa:refTitle><oa:refUrl>http://localhost/article/automobile/subaru/levorg/prototype-sti-sport-tokyo-auto-salon-2020/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>ホンダ新型シビックセダンとシビックハッチバック発売へ！サンルーフをオプション設定</oa:refTitle><oa:refUrl>http://localhost/article/automobile/honda/civic/sedan-hatchback-new/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>【トヨタGRヤリス】東京オートサロン2020で初公開</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/toyota/yaris/tokyo-autosalon-2020/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>【スバル】新型レヴォーグプロトタイプ STIスポーツを東京オートサロンにて初公開</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/subaru/levorg/prototype-sti-sport-tokyo-auto-salon-2020/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>ホンダ新型シビックセダンとシビックハッチバック発売へ！サンルーフをオプション設定</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/honda/civic/sedan-hatchback-new/</oa:refUrl></oa:reflink>
 			
 						<oa:lastPubDate>
 				Thu, 09 Jan 2020 16:40:12 +0900
@@ -1458,7 +1458,7 @@
 		<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=5949</guid>
 			<title><![CDATA[【ランドローバー】レンジローバー&レンジローバースポーツ 2020年モデルの発売開始！]]></title>
-			<link>http://localhost/article/automobile/landrover/range-rover/new-50/</link>
+			<link>http://docker.car-moby.com/article/automobile/landrover/range-rover/new-50/</link>
 			<pubDate>Thu, 09 Jan 2020 12:00:45 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -1479,17 +1479,17 @@
 					
 					<p><small>※スマートニュース、LINEニュースなどのアプリでは、リンクやYouTubeなどの表示がされませんので、この画面下部にあるオリジナルサイトへのリンクからご覧ください。</small></p>
 					<p><small>※参考リンクはオリジナルサイトでご覧ください</small></p>
-					<p><small><a href="http://localhost/article/automobile/landrover/range-rover/new-50/">オリジナルサイトで読む</a></small></p>
+					<p><small><a href="http://docker.car-moby.com/article/automobile/landrover/range-rover/new-50/">オリジナルサイトで読む</a></small></p>
 			]]></description>
 			<enclosure url="https://cdn.car-moby.jp/article/wp-content/uploads/2020/01/09143515/range_rover_2020_front_side.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://docker.car-moby.com/article</oa:authorUrl>
 			</oa:imgAuthor>
 									
-			<oa:reflink><oa:refTitle>ランドローバー新型ディスカバリー・スポーツ｜マイナーチェンジ【大幅改良】</oa:refTitle><oa:refUrl>http://localhost/article/automobile/landrover/discovery-sport/new-13/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>BMW X5に新型PHEVと530馬力のV8 搭載の「M50i」追加発売開始</oa:refTitle><oa:refUrl>http://localhost/article/automobile/bmw/x5/phev-m50i-new/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>新型BMW X6がフルモデルチェンジ！より存在感のあるデザインに！</oa:refTitle><oa:refUrl>http://localhost/article/automobile/bmw/x6/new-51/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>ランドローバー新型ディスカバリー・スポーツ｜マイナーチェンジ【大幅改良】</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/landrover/discovery-sport/new-13/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>BMW X5に新型PHEVと530馬力のV8 搭載の「M50i」追加発売開始</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/bmw/x5/phev-m50i-new/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>新型BMW X6がフルモデルチェンジ！より存在感のあるデザインに！</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/bmw/x6/new-51/</oa:refUrl></oa:reflink>
 			
 						<oa:lastPubDate>
 				Thu, 09 Jan 2020 18:29:40 +0900
@@ -1500,7 +1500,7 @@
 		<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=6133</guid>
 			<title><![CDATA[マツダ 新型SUV「CX-30」受注が好調 発売から2ヶ月で12,346台を突破]]></title>
-			<link>http://localhost/article/automobile/mazda/cx-30/sales-report/</link>
+			<link>http://docker.car-moby.com/article/automobile/mazda/cx-30/sales-report/</link>
 			<pubDate>Thu, 09 Jan 2020 12:00:38 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -1517,17 +1517,17 @@
 					
 					<p><small>※スマートニュース、LINEニュースなどのアプリでは、リンクやYouTubeなどの表示がされませんので、この画面下部にあるオリジナルサイトへのリンクからご覧ください。</small></p>
 					<p><small>※参考リンクはオリジナルサイトでご覧ください</small></p>
-					<p><small><a href="http://localhost/article/automobile/mazda/cx-30/sales-report/">オリジナルサイトで読む</a></small></p>
+					<p><small><a href="http://docker.car-moby.com/article/automobile/mazda/cx-30/sales-report/">オリジナルサイトで読む</a></small></p>
 			]]></description>
 			<enclosure url="https://cdn.car-moby.jp/article/wp-content/uploads/2020/01/09180130/mazda_cx-30_2019_front_side_02-1568x1045.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://docker.car-moby.com/article</oa:authorUrl>
 			</oa:imgAuthor>
 									
-			<oa:reflink><oa:refTitle>【三菱エクリプスクロス 一部改良】光の演出と夜間の利便性を高める</oa:refTitle><oa:refUrl>http://localhost/article/automobile/mitsubishi/eclipse-cross/new-54/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>三菱 RVRに黒基調で精悍になった特別仕様車「ブラック エディション」を発売</oa:refTitle><oa:refUrl>http://localhost/article/automobile/mitsubishi/rvr/black-edition/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>【ランドローバー】レンジローバー&#038;レンジローバースポーツ 2020年モデルの発売開始！</oa:refTitle><oa:refUrl>http://localhost/article/automobile/landrover/range-rover/new-50/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>【三菱エクリプスクロス 一部改良】光の演出と夜間の利便性を高める</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/mitsubishi/eclipse-cross/new-54/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>三菱 RVRに黒基調で精悍になった特別仕様車「ブラック エディション」を発売</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/mitsubishi/rvr/black-edition/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>【ランドローバー】レンジローバー&#038;レンジローバースポーツ 2020年モデルの発売開始！</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/landrover/range-rover/new-50/</oa:refUrl></oa:reflink>
 			
 						<oa:lastPubDate>
 				Thu, 09 Jan 2020 18:27:45 +0900
@@ -1538,7 +1538,7 @@
 		<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=5891</guid>
 			<title><![CDATA[新型BMW X6がフルモデルチェンジ！より存在感のあるデザインに！]]></title>
-			<link>http://localhost/article/automobile/bmw/x6/new-51/</link>
+			<link>http://docker.car-moby.com/article/automobile/bmw/x6/new-51/</link>
 			<pubDate>Thu, 09 Jan 2020 00:00:35 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -1561,17 +1561,17 @@
 					
 					<p><small>※スマートニュース、LINEニュースなどのアプリでは、リンクやYouTubeなどの表示がされませんので、この画面下部にあるオリジナルサイトへのリンクからご覧ください。</small></p>
 					<p><small>※参考リンクはオリジナルサイトでご覧ください</small></p>
-					<p><small><a href="http://localhost/article/automobile/bmw/x6/new-51/">オリジナルサイトで読む</a></small></p>
+					<p><small><a href="http://docker.car-moby.com/article/automobile/bmw/x6/new-51/">オリジナルサイトで読む</a></small></p>
 			]]></description>
 			<enclosure url="https://cdn.car-moby.jp/article/wp-content/uploads/2020/01/09111332/bmw_x6_m50i_2020_front_side-1568x1045.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://docker.car-moby.com/article</oa:authorUrl>
 			</oa:imgAuthor>
 									
-			<oa:reflink><oa:refTitle>フォルクスワーゲン新型T-クロスが日本上陸！</oa:refTitle><oa:refUrl>http://localhost/article/automobile/volkswagen/t-cross/new-10/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>BMW X5に新型PHEVと530馬力のV8 搭載の「M50i」追加発売開始</oa:refTitle><oa:refUrl>http://localhost/article/automobile/bmw/x5/phev-m50i-new/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>アウディ新型SQ2発売開始｜より高性能なスポーツ・コンパクトSUV</oa:refTitle><oa:refUrl>http://localhost/article/automobile/audi/sq2/new-52/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>フォルクスワーゲン新型T-クロスが日本上陸！</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/volkswagen/t-cross/new-10/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>BMW X5に新型PHEVと530馬力のV8 搭載の「M50i」追加発売開始</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/bmw/x5/phev-m50i-new/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>アウディ新型SQ2発売開始｜より高性能なスポーツ・コンパクトSUV</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/audi/sq2/new-52/</oa:refUrl></oa:reflink>
 			
 						<oa:lastPubDate>
 				Thu, 09 Jan 2020 18:23:33 +0900
@@ -1582,7 +1582,7 @@
 		<item>
 			<guid isPermaLink="false">http://car-moby.jp/article/?p=5875</guid>
 			<title><![CDATA[【スズキ】東京オートサロン2020出展概要を発表｜人気車両のスポーツ仕様車に注目！]]></title>
-			<link>http://localhost/article/automobile/suzuki/tokyo-auto-salon-2020-6/</link>
+			<link>http://docker.car-moby.com/article/automobile/suzuki/tokyo-auto-salon-2020-6/</link>
 			<pubDate>Wed, 08 Jan 2020 20:01:12 +0900</pubDate>
 			<description><![CDATA[
 										
@@ -1600,17 +1600,17 @@
 					
 					<p><small>※スマートニュース、LINEニュースなどのアプリでは、リンクやYouTubeなどの表示がされませんので、この画面下部にあるオリジナルサイトへのリンクからご覧ください。</small></p>
 					<p><small>※参考リンクはオリジナルサイトでご覧ください</small></p>
-					<p><small><a href="http://localhost/article/automobile/suzuki/tokyo-auto-salon-2020-6/">オリジナルサイトで読む</a></small></p>
+					<p><small><a href="http://docker.car-moby.com/article/automobile/suzuki/tokyo-auto-salon-2020-6/">オリジナルサイトで読む</a></small></p>
 			]]></description>
 			<enclosure url="https://cdn.car-moby.jp/article/wp-content/uploads/2020/01/08195555/Suzuki_hustler-street-base_tokyo-auto-salon-2020-1568x1070.jpg" type="image/jpeg" length="0" />
 			<oa:imgAuthor>
 				<oa:authorName>MOBY</oa:authorName>
-				<oa:authorUrl>http://localhost/article</oa:authorUrl>
+				<oa:authorUrl>http://docker.car-moby.com/article</oa:authorUrl>
 			</oa:imgAuthor>
 									
-			<oa:reflink><oa:refTitle>【TOM&#8217;S】東京オートサロン2020でスープラ、センチュリー限定車を発表・受注開始</oa:refTitle><oa:refUrl>http://localhost/article/event/automobile-event/tokyo-auto-salon-2020-toms-supra-century/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>マツダ CX-30のお得なカスタマイズパッケージが2月3日発売</oa:refTitle><oa:refUrl>http://localhost/article/automobile/mazda/cx-30/signature-style/</oa:refUrl></oa:reflink>
-			<oa:reflink><oa:refTitle>【スバル】新型レヴォーグプロトタイプ STIスポーツを東京オートサロンにて初公開</oa:refTitle><oa:refUrl>http://localhost/article/automobile/subaru/levorg/prototype-sti-sport-tokyo-auto-salon-2020/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>【TOM&#8217;S】東京オートサロン2020でスープラ、センチュリー限定車を発表・受注開始</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/event/automobile-event/tokyo-auto-salon-2020-toms-supra-century/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>マツダ CX-30のお得なカスタマイズパッケージが2月3日発売</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/mazda/cx-30/signature-style/</oa:refUrl></oa:reflink>
+			<oa:reflink><oa:refTitle>【スバル】新型レヴォーグプロトタイプ STIスポーツを東京オートサロンにて初公開</oa:refTitle><oa:refUrl>http://docker.car-moby.com/article/automobile/subaru/levorg/prototype-sti-sport-tokyo-auto-salon-2020/</oa:refUrl></oa:reflink>
 			
 						<oa:lastPubDate>
 				Wed, 08 Jan 2020 20:01:13 +0900
