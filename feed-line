@@ -433,7 +433,7 @@
 							
 		<item>
 			<guid isPermaLink="false">http://localhost/article/?p=60687</guid>
-			<title><![CDATA[]]></title>
+			<title><![CDATA[適当なタイトル]]></title>
 			<link>http://127.0.0.1/article/other/60687/</link>
 			<pubDate>Fri, 29 May 2020 17:37:52 +0900</pubDate>
 			<description><![CDATA[
@@ -453,7 +453,7 @@
 				<oa:authorUrl>http://127.0.0.1/article</oa:authorUrl>
 			</oa:imgAuthor>
 									<oa:lastPubDate>
-				Fri, 29 May 2020 17:50:10 +0900
+				Mon, 01 Jun 2020 18:04:58 +0900
 			</oa:lastPubDate>
 			<oa:delStatus>0</oa:delStatus>
 		</item>
